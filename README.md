@@ -19,6 +19,10 @@
 
 ### ddd
 
+---
+
+# better books
+
 ### java
 - effective java
 - head first design pattern
@@ -41,3 +45,6 @@
   - https://github.com/thombergs/buckpal
 
 
+---
+
+# good books
