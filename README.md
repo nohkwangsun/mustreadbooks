@@ -36,14 +36,6 @@
 
 ### hadoop
 
-### system
-- system design interview
-  - https://github.com/G33kzD3n/Catalogue/raw/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf
-  - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158
-  - https://www.getdbt.com/
-  - https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html
-  - https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt
-
 
 ### clean architecture
 - get your hands dirty on clean architecture
@@ -59,3 +51,18 @@
 ---
 
 # curious books
+
+### system
+- system design interview
+  - https://github.com/G33kzD3n/Catalogue/raw/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf
+  - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158
+  - https://github.com/donnemartin/system-design-primer
+  - https://www.educative.io/courses/grokking-the-system-design-interview
+  - https://designgurus.org/course/grokking-the-system-design-interview
+  - https://youtu.be/3RHjRXWAUvg
+  - https://youtu.be/ZgdS0EUmn70
+  - https://youtu.be/dUMWMZmMsVE
+- data build tool
+  - https://www.getdbt.com/
+  - https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html
+  - https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt
