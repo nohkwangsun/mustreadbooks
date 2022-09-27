@@ -59,6 +59,7 @@
   - https://github.com/donnemartin/system-design-primer
   - https://www.educative.io/courses/grokking-the-system-design-interview
   - https://designgurus.org/course/grokking-the-system-design-interview
+  - https://bytebytego.com/
   - https://youtu.be/3RHjRXWAUvg
   - https://youtu.be/ZgdS0EUmn70
   - https://youtu.be/dUMWMZmMsVE
