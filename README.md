@@ -67,3 +67,17 @@
   - https://www.getdbt.com/
   - https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html
   - https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt
+
+### java network / concureency
+- Java Network Programming, 4th Edition. Elliotte Rusty Harold
+  - https://docs.oracle.com/javase/tutorial/networking/index.html
+  - https://www.vogella.com/tutorials/JavaConcurrency/article.html#threads-pools-with-the-executor-framework
+- Pro Java 7 NIO.2
+- Java I/O, NIO and NIO.2. Jeff Friesen
+- Java NIO. Ron Hitchens
+- Java Concurrency in Practice
+- Java 9 Concurrency Cookbook - Second Edition
+- Mastering Concurrency Programming with Java 9 - Second Edition: Fast, reactive and parallel application development
+- 
+
+
